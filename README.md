@@ -21,5 +21,6 @@ Instale as dependências principais com:
 
 ```bash
 pip install magenta customtkinter note-seq tensorflow==1.15
+```
 
 Grupo: Bruna Mafra, Denilson Pereira, Igor Silva, Guilherme Lara, Nathan Marques
